@@ -1,0 +1,16 @@
+numpy
+datetime
+pathlib
+psycopg2-binary
+pyyaml
+pytest-cov
+faiss-cpu
+pandas 
+scikit-learn 
+sentence_transformers
+flask
+logging
+requests
+transformers
+torch 
+openai

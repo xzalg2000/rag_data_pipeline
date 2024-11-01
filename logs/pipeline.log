@@ -1,0 +1,299 @@
+2024-11-01 12:56:31,138 INFO Use pytorch device_name: mps
+2024-11-01 12:56:31,138 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 12:56:32,110 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 12:56:32,112 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 12:56:32,127 WARNING  * Debugger is active!
+2024-11-01 12:56:32,141 INFO  * Debugger PIN: 143-669-194
+2024-11-01 12:56:33,224 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/tests/test_api.py', reloading
+2024-11-01 12:56:35,143 INFO Use pytorch device_name: mps
+2024-11-01 12:56:35,143 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 12:56:35,847 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 12:56:35,848 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 12:56:35,858 WARNING  * Debugger is active!
+2024-11-01 12:56:35,867 INFO  * Debugger PIN: 143-669-194
+2024-11-01 12:57:11,216 INFO Database connection established.
+2024-11-01 12:57:11,454 INFO Database connection closed.
+2024-11-01 12:57:11,455 ERROR Error generating customer review response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-01 12:57:11,455 ERROR Error during query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-01 12:57:11,455 INFO 127.0.0.1 - - [01/Nov/2024 12:57:11] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 12:57:11,488 INFO Database connection established.
+2024-11-01 12:57:11,555 INFO Database connection closed.
+2024-11-01 12:57:11,556 ERROR Error generating medical record response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-01 12:57:11,556 ERROR Error during query: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2024-11-01 12:57:11,556 INFO 127.0.0.1 - - [01/Nov/2024 12:57:11] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:00:26,454 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:00:28,849 INFO Use pytorch device_name: mps
+2024-11-01 13:00:28,849 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:00:29,984 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:00:29,986 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:00:30,012 WARNING  * Debugger is active!
+2024-11-01 13:00:30,021 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:00:32,159 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:00:34,063 INFO Use pytorch device_name: mps
+2024-11-01 13:00:34,063 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:00:34,965 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:00:34,967 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:00:35,003 WARNING  * Debugger is active!
+2024-11-01 13:00:35,010 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:00:55,106 INFO Use pytorch device_name: mps
+2024-11-01 13:00:55,106 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:00:55,925 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:00:55,927 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:00:55,942 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.16.224.250:5001
+2024-11-01 13:00:55,942 INFO [33mPress CTRL+C to quit[0m
+2024-11-01 13:00:55,942 INFO  * Restarting with stat
+2024-11-01 13:00:57,505 INFO Use pytorch device_name: mps
+2024-11-01 13:00:57,505 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:00:58,399 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:00:58,399 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:00:58,415 WARNING  * Debugger is active!
+2024-11-01 13:00:58,425 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:00:59,437 INFO Database connection established.
+2024-11-01 13:00:59,701 INFO Database connection closed.
+2024-11-01 13:01:00,275 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:01:00,276 ERROR Error generating customer review response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:01:00,277 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:01:00,279 INFO 127.0.0.1 - - [01/Nov/2024 13:01:00] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:01:00,351 INFO Database connection established.
+2024-11-01 13:01:00,472 INFO Database connection closed.
+2024-11-01 13:01:00,615 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:01:00,615 ERROR Error generating medical record response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:01:00,615 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:01:00,616 INFO 127.0.0.1 - - [01/Nov/2024 13:01:00] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:02:57,343 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:02:57,731 INFO  * Restarting with stat
+2024-11-01 13:02:59,790 INFO Use pytorch device_name: mps
+2024-11-01 13:02:59,790 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:03:00,824 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:03:00,826 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:03:00,840 WARNING  * Debugger is active!
+2024-11-01 13:03:00,852 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:04:43,201 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:04:43,607 INFO  * Restarting with stat
+2024-11-01 13:04:45,510 INFO Use pytorch device_name: mps
+2024-11-01 13:04:45,510 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:04:46,631 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:04:46,633 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:04:46,651 WARNING  * Debugger is active!
+2024-11-01 13:04:46,660 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:06:26,068 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:06:26,477 INFO  * Restarting with stat
+2024-11-01 13:06:28,434 INFO Use pytorch device_name: mps
+2024-11-01 13:06:28,434 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:06:29,721 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:06:29,722 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:06:29,740 WARNING  * Debugger is active!
+2024-11-01 13:06:29,750 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:06:54,109 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:06:54,557 INFO  * Restarting with stat
+2024-11-01 13:06:56,516 INFO Use pytorch device_name: mps
+2024-11-01 13:06:56,516 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:06:57,496 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:06:57,497 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:08:19,982 INFO Use pytorch device_name: mps
+2024-11-01 13:08:19,983 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:08:20,890 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:08:20,892 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:28:09,168 INFO Use pytorch device_name: mps
+2024-11-01 13:28:09,168 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:28:10,241 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:28:10,244 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:31:55,897 INFO Use pytorch device_name: mps
+2024-11-01 13:31:55,898 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:31:56,939 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:31:56,941 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:31:56,959 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.16.224.250:5001
+2024-11-01 13:31:56,959 INFO [33mPress CTRL+C to quit[0m
+2024-11-01 13:31:56,959 INFO  * Restarting with stat
+2024-11-01 13:31:58,528 INFO Use pytorch device_name: mps
+2024-11-01 13:31:58,528 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:31:59,450 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:31:59,451 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:31:59,463 WARNING  * Debugger is active!
+2024-11-01 13:31:59,474 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:32:34,230 INFO Database connection established.
+2024-11-01 13:32:35,820 INFO Database connection closed.
+2024-11-01 13:32:35,821 ERROR Error during query: cannot access local variable 'generated_answer' where it is not associated with a value
+2024-11-01 13:32:35,821 INFO 127.0.0.1 - - [01/Nov/2024 13:32:35] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:32:35,851 INFO Database connection established.
+2024-11-01 13:32:35,868 INFO Database connection closed.
+2024-11-01 13:32:35,868 ERROR Error during query: cannot access local variable 'generated_answer' where it is not associated with a value
+2024-11-01 13:32:35,869 INFO 127.0.0.1 - - [01/Nov/2024 13:32:35] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:32:35,901 INFO Database connection established.
+2024-11-01 13:32:35,979 INFO Database connection closed.
+2024-11-01 13:32:35,979 ERROR Error during query: cannot access local variable 'generated_answer' where it is not associated with a value
+2024-11-01 13:32:35,979 INFO 127.0.0.1 - - [01/Nov/2024 13:32:35] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:34:05,223 INFO Database connection established.
+2024-11-01 13:34:05,440 INFO Database connection closed.
+2024-11-01 13:34:05,759 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:34:05,760 ERROR Error generating customer review response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:34:05,760 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:34:05,761 INFO 127.0.0.1 - - [01/Nov/2024 13:34:05] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:34:05,819 INFO Database connection established.
+2024-11-01 13:34:05,866 INFO Database connection closed.
+2024-11-01 13:34:05,986 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:34:05,987 ERROR Error generating medical record response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:34:05,987 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:34:05,987 INFO 127.0.0.1 - - [01/Nov/2024 13:34:05] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:36:35,100 INFO Database connection established.
+2024-11-01 13:36:35,365 INFO Database connection closed.
+2024-11-01 13:36:35,572 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:36:35,573 ERROR Error generating customer review response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:36:35,573 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:36:35,574 INFO 127.0.0.1 - - [01/Nov/2024 13:36:35] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:36:35,644 INFO Database connection established.
+2024-11-01 13:36:35,691 INFO Database connection closed.
+2024-11-01 13:36:35,795 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:36:35,795 ERROR Error generating medical record response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:36:35,795 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:36:35,796 INFO 127.0.0.1 - - [01/Nov/2024 13:36:35] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:37:19,061 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:37:19,495 INFO  * Restarting with stat
+2024-11-01 13:37:21,636 INFO Use pytorch device_name: mps
+2024-11-01 13:37:21,636 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:37:22,740 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:37:22,742 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:37:22,757 WARNING  * Debugger is active!
+2024-11-01 13:37:22,769 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:37:26,208 INFO Use pytorch device_name: mps
+2024-11-01 13:37:26,208 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:37:26,970 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:37:26,971 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:37:26,984 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.16.224.250:5001
+2024-11-01 13:37:26,984 INFO [33mPress CTRL+C to quit[0m
+2024-11-01 13:37:26,984 INFO  * Restarting with stat
+2024-11-01 13:37:28,647 INFO Use pytorch device_name: mps
+2024-11-01 13:37:28,647 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:37:29,464 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:37:29,465 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:37:29,477 WARNING  * Debugger is active!
+2024-11-01 13:37:29,487 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:37:38,583 INFO Database connection established.
+2024-11-01 13:37:38,828 INFO Database connection closed.
+2024-11-01 13:37:38,968 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:37:38,968 ERROR Error generating customer review response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:37:38,968 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:37:38,969 INFO 127.0.0.1 - - [01/Nov/2024 13:37:38] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:37:39,003 INFO Database connection established.
+2024-11-01 13:37:39,071 INFO Database connection closed.
+2024-11-01 13:37:39,214 INFO error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
+2024-11-01 13:37:39,215 ERROR Error generating medical record response: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:37:39,215 ERROR Error during query: You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.
+2024-11-01 13:37:39,215 INFO 127.0.0.1 - - [01/Nov/2024 13:37:39] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:38:10,752 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:38:11,131 INFO  * Restarting with stat
+2024-11-01 13:38:13,188 INFO Use pytorch device_name: mps
+2024-11-01 13:38:13,188 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:38:14,125 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:38:14,127 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:38:14,142 WARNING  * Debugger is active!
+2024-11-01 13:38:14,154 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:38:17,386 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:38:17,782 INFO  * Restarting with stat
+2024-11-01 13:38:19,402 INFO Use pytorch device_name: mps
+2024-11-01 13:38:19,402 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:38:20,316 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:38:20,319 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:38:20,336 WARNING  * Debugger is active!
+2024-11-01 13:38:20,348 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:43:45,351 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:43:45,713 INFO  * Restarting with stat
+2024-11-01 13:43:47,654 INFO Use pytorch device_name: mps
+2024-11-01 13:43:47,654 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:43:48,754 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:43:48,756 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:43:48,771 WARNING  * Debugger is active!
+2024-11-01 13:43:48,781 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:46:27,683 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:46:28,079 INFO  * Restarting with stat
+2024-11-01 13:52:51,806 INFO Use pytorch device_name: mps
+2024-11-01 13:52:51,806 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:52:52,979 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:52:52,983 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:52:53,019 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.16.224.250:5001
+2024-11-01 13:52:53,019 INFO [33mPress CTRL+C to quit[0m
+2024-11-01 13:52:53,019 INFO  * Restarting with stat
+2024-11-01 13:52:54,733 INFO Use pytorch device_name: mps
+2024-11-01 13:52:54,733 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:52:55,737 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:52:55,738 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:52:55,768 WARNING  * Debugger is active!
+2024-11-01 13:52:55,778 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:53:15,870 INFO Database connection established.
+2024-11-01 13:53:16,222 INFO Database connection closed.
+2024-11-01 13:53:16,511 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-11-01 13:53:16,515 ERROR Error generating customer review response: Error code: 401 - {'error': {'message': "The project '$data_pipeline_rag' does not exist in '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'", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_project'}}
+2024-11-01 13:53:16,515 ERROR Error during query: Error code: 401 - {'error': {'message': "The project '$data_pipeline_rag' does not exist in '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'", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_project'}}
+2024-11-01 13:53:16,518 INFO 127.0.0.1 - - [01/Nov/2024 13:53:16] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:53:16,577 INFO Database connection established.
+2024-11-01 13:53:16,715 INFO Database connection closed.
+2024-11-01 13:53:16,785 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-11-01 13:53:16,785 ERROR Error generating medical record response: Error code: 401 - {'error': {'message': "The project '$data_pipeline_rag' does not exist in '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'", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_project'}}
+2024-11-01 13:53:16,785 ERROR Error during query: Error code: 401 - {'error': {'message': "The project '$data_pipeline_rag' does not exist in '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'", 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_project'}}
+2024-11-01 13:53:16,785 INFO 127.0.0.1 - - [01/Nov/2024 13:53:16] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:54:05,984 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:54:06,416 INFO  * Restarting with stat
+2024-11-01 13:54:08,627 INFO Use pytorch device_name: mps
+2024-11-01 13:54:08,627 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:54:09,622 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:54:09,623 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:54:09,652 WARNING  * Debugger is active!
+2024-11-01 13:54:09,662 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:54:10,173 INFO Database connection established.
+2024-11-01 13:54:10,378 INFO Database connection closed.
+2024-11-01 13:54:10,882 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-11-01 13:54:10,885 ERROR Error generating customer review response: Error code: 401 - {'error': {'message': 'OpenAI-Organization header should match organization for API key', 'type': 'invalid_request_error', 'param': None, 'code': 'mismatched_organization'}}
+2024-11-01 13:54:10,885 ERROR Error during query: Error code: 401 - {'error': {'message': 'OpenAI-Organization header should match organization for API key', 'type': 'invalid_request_error', 'param': None, 'code': 'mismatched_organization'}}
+2024-11-01 13:54:10,886 INFO 127.0.0.1 - - [01/Nov/2024 13:54:10] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:54:10,937 INFO Database connection established.
+2024-11-01 13:54:11,056 INFO Database connection closed.
+2024-11-01 13:54:11,133 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2024-11-01 13:54:11,134 ERROR Error generating medical record response: Error code: 401 - {'error': {'message': 'OpenAI-Organization header should match organization for API key', 'type': 'invalid_request_error', 'param': None, 'code': 'mismatched_organization'}}
+2024-11-01 13:54:11,134 ERROR Error during query: Error code: 401 - {'error': {'message': 'OpenAI-Organization header should match organization for API key', 'type': 'invalid_request_error', 'param': None, 'code': 'mismatched_organization'}}
+2024-11-01 13:54:11,134 INFO 127.0.0.1 - - [01/Nov/2024 13:54:11] "[35m[1mPOST /query HTTP/1.1[0m" 500 -
+2024-11-01 13:56:54,589 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 13:56:55,023 INFO  * Restarting with stat
+2024-11-01 13:58:52,076 INFO Use pytorch device_name: mps
+2024-11-01 13:58:52,077 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:58:53,552 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:58:53,553 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:58:53,594 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://172.16.224.250:5001
+2024-11-01 13:58:53,594 INFO [33mPress CTRL+C to quit[0m
+2024-11-01 13:58:53,594 INFO  * Restarting with stat
+2024-11-01 13:58:55,253 INFO Use pytorch device_name: mps
+2024-11-01 13:58:55,253 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 13:58:56,259 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 13:58:56,260 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 13:58:56,287 WARNING  * Debugger is active!
+2024-11-01 13:58:56,300 INFO  * Debugger PIN: 143-669-194
+2024-11-01 13:59:04,252 INFO Database connection established.
+2024-11-01 13:59:04,582 INFO Database connection closed.
+2024-11-01 13:59:05,925 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-01 13:59:05,949 INFO 127.0.0.1 - - [01/Nov/2024 13:59:05] "POST /query HTTP/1.1" 200 -
+2024-11-01 13:59:06,014 INFO Database connection established.
+2024-11-01 13:59:06,145 INFO Database connection closed.
+2024-11-01 13:59:07,413 INFO HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-01 13:59:07,415 INFO 127.0.0.1 - - [01/Nov/2024 13:59:07] "POST /query HTTP/1.1" 200 -
+2024-11-01 14:01:36,476 INFO  * Detected change in '/Users/zaoxu/Work/Job_related/disney/de_pipeline_v2/api/app.py', reloading
+2024-11-01 14:01:36,886 INFO  * Restarting with stat
+2024-11-01 14:01:39,271 INFO Use pytorch device_name: mps
+2024-11-01 14:01:39,271 INFO Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2024-11-01 14:01:40,850 INFO Loaded model all-MiniLM-L6-v2.
+2024-11-01 14:01:40,852 INFO Loaded Faiss index from vector_store/faiss_index.
+2024-11-01 14:01:40,883 WARNING  * Debugger is active!
+2024-11-01 14:01:40,896 INFO  * Debugger PIN: 143-669-194
