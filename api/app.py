@@ -23,8 +23,7 @@ retriever.load_model()
 retriever.load_faiss_index()
 
 # Configure OpenAI
-client = OpenAI(
-    api_key='api_key')
+client = OpenAI()
 
 def generate_customer_review_response(query_text, retrieved_texts):
     """Generate response for customer reviews using OpenAI."""
